@@ -1,5 +1,5 @@
 # Materia: Seminario de solucion de problemas de sistemas operativos
-**## Profesor:** 
+## Profesor:
 Avina Mendez Jose Antonio
-**## Alumno: **
+## Alumno:
 Rodriguez Sanchez Manuel Alejandro
